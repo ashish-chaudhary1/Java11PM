@@ -1,0 +1,3 @@
+1. SumOfTwo.java (2024-10-12)
+2. Store any 5 integers and calculate and display the average (2024-10-13)
+2.
